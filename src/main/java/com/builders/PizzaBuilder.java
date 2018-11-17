@@ -2,6 +2,10 @@ package com.builders;
 
 import com.model.Pizza;
 
+/**
+ * @author Pontalti X
+ *
+ */
 public class PizzaBuilder extends GenericFoodBuilder<Pizza, PizzaBuilder>{
 	
 	public PizzaBuilder(Integer size) {

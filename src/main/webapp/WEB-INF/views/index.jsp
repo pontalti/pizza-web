@@ -17,9 +17,9 @@
 <body>
 	<div class="container">
 		<br />
-		<div class="alert alert-success">
+		<div align="center" class="alert alert-info">
 			<a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
-			<strong>Pizza</strong>
+			<strong>Spring boot,  MVC + bootstrap + jquery, rest.</strong>
 		</div>
 	</div>
 	<hr>

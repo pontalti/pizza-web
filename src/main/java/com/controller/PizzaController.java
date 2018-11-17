@@ -15,6 +15,10 @@ import org.springframework.web.bind.annotation.RestController;
 import com.builders.PizzaBuilder;
 import com.model.Pizza;
 
+/**
+ * @author Pontalti X
+ *
+ */
 @RestController	
 @RequestMapping("/pizza")
 public class PizzaController {

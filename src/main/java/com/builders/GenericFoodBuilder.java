@@ -1,5 +1,9 @@
 package com.builders;
 
+/**
+ * @author Pontalti X
+ *
+ */
 public abstract class GenericFoodBuilder<T, B> {
 
 	protected String 	name;

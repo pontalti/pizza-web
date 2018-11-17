@@ -2,6 +2,10 @@ package com.model;
 
 import com.builders.PizzaBuilder;
 
+/**
+ * @author Pontalti X
+ *
+ */
 public class Pizza  implements Comparable<Pizza>{
 
 	private String 	name;

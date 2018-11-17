@@ -16,9 +16,9 @@
 <body>
 	<div class="container">
 		<br />
-		<div class="alert alert-success">
+		<div align="center" class="alert alert-success">
 			<a href="#" class="close" data-dismiss="alert" aria-label="close">×</a>
-			<strong>Spring Boot - MVC web application + bootstrap + jquery</strong>
+			<strong>Spring boot,  MVC + bootstrap + jquery, rest.</strong>
 		</div>
 	</div>
 	<hr>
